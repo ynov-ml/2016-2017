@@ -1,0 +1,9 @@
+ipython
+notebook
+numpy
+scipy
+scikit-learn
+scikit-image
+matplotlib
+mahotas
+pandas

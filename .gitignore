@@ -1,0 +1,5 @@
+# ipython
+venv
+.ipynb_checkpoints
+
+*~
