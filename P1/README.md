@@ -55,7 +55,7 @@ analyse de vos collègues.
 
 ## Ordre d'évaluation
 
-Dans _votre propre  répo, ajoutez deux fichier, un pour chacune des
+Dans _votre propre  répo, ajoutez deux fichiers, un pour chacune des
 personnes que vous évaluez.  Faites quelque chose de logique quant à
 vos choix de nom pour que ce soit clair que projet (P1) et quelle
 personne.
