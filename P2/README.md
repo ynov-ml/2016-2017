@@ -50,7 +50,71 @@ analyse de vos collègues.
 
 Dans _votre propre  répo, ajoutez deux fichiers, un pour chacune des
 personnes que vous évaluez.  Faites quelque chose de logique quant à
-vos choix de nom pour que ce soit clair que projet (P2) et quelle
+vos choix de nom pour que ce soit clair quel projet (P2) et quelle
 personne.
 
-[liste à venir le 10 janvier]
+*[/SamuelFafin/samuelfafin-ml-ynov](https://github.com/SamuelFafin/samuelfafin-ml-ynov.git)*
+* [/RomainGuilbaud/project-Romain](https://github.com/RomainGuilbaud/project-Romain)
+* [/AnnetteHellebois/2016-2017](https://github.com/AnnetteHellebois/2016-2017.git)
+
+
+*[/GuillaumeTrichardYnov/P1](https://github.com/GuillaumeTrichardYnov/P1)*
+* [/SamuelFafin/samuelfafin-ml-ynov](https://github.com/SamuelFafin/samuelfafin-ml-ynov.git)
+* [/RomainGuilbaud/project-Romain](https://github.com/RomainGuilbaud/project-Romain)
+
+
+*[/AlexSoudant/2016-2017](https://github.com/AlexSoudant/2016-2017.git)*
+* [/GuillaumeTrichardYnov/P1](https://github.com/GuillaumeTrichardYnov/P1)
+* [/SamuelFafin/samuelfafin-ml-ynov](https://github.com/SamuelFafin/samuelfafin-ml-ynov.git)
+
+
+*[/zackdu35/2016-2017](https://github.com/zackdu35/2016-2017)*
+* [/AlexSoudant/2016-2017](https://github.com/AlexSoudant/2016-2017.git)
+* [/GuillaumeTrichardYnov/P1](https://github.com/GuillaumeTrichardYnov/P1)
+
+
+*[/CharpentierNicolas/NicolasCharpentierML](https://github.com/CharpentierNicolas/NicolasCharpentierML.git)*
+* [/zackdu35/2016-2017](https://github.com/zackdu35/2016-2017)
+* [/AlexSoudant/2016-2017](https://github.com/AlexSoudant/2016-2017.git)
+
+
+*[/lamstutz/ynov_ML](https://github.com/lamstutz/ynov_ML)*
+* [/CharpentierNicolas/NicolasCharpentierML](https://github.com/CharpentierNicolas/NicolasCharpentierML.git)
+* [/zackdu35/2016-2017](https://github.com/zackdu35/2016-2017)
+
+
+*[/kevinhipeau/2016-2017](https://github.com/kevinhipeau/2016-2017)*
+* [/lamstutz/ynov_ML](https://github.com/lamstutz/ynov_ML)
+* [/CharpentierNicolas/NicolasCharpentierML](https://github.com/CharpentierNicolas/NicolasCharpentierML.git)
+
+
+*[/barthelemypousset/2016-2017](https://github.com/barthelemypousset/2016-2017)*
+* [/kevinhipeau/2016-2017](https://github.com/kevinhipeau/2016-2017)
+* [/lamstutz/ynov_ML](https://github.com/lamstutz/ynov_ML)
+
+
+*[/willynov/2016-2017](https://github.com/willynov/2016-2017.git)*
+* [/barthelemypousset/2016-2017](https://github.com/barthelemypousset/2016-2017)
+* [/kevinhipeau/2016-2017](https://github.com/kevinhipeau/2016-2017)
+
+
+*[/L4brax/ml_antoine_hess](https://github.com/L4brax/ml_antoine_hess)*
+* [/willynov/2016-2017](https://github.com/willynov/2016-2017.git)
+* [/barthelemypousset/2016-2017](https://github.com/barthelemypousset/2016-2017)
+
+
+*[/FloFloo17/2016-2017](https://github.com/FloFloo17/2016-2017)*
+* [/L4brax/ml_antoine_hess](https://github.com/L4brax/ml_antoine_hess)
+* [/willynov/2016-2017](https://github.com/willynov/2016-2017.git)
+
+
+*[/AnnetteHellebois/2016-2017](https://github.com/AnnetteHellebois/2016-2017.git)*
+* [/FloFloo17/2016-2017](https://github.com/FloFloo17/2016-2017)
+* [/L4brax/ml_antoine_hess](https://github.com/L4brax/ml_antoine_hess)
+
+
+*[/RomainGuilbaud/project-Romain](https://github.com/RomainGuilbaud/project-Romain)*
+* [/AnnetteHellebois/2016-2017](https://github.com/AnnetteHellebois/2016-2017.git)
+* [/FloFloo17/2016-2017](https://github.com/FloFloo17/2016-2017)
+
+

@@ -57,7 +57,7 @@ analyse de vos collègues.
 
 Dans _votre propre  répo, ajoutez deux fichiers, un pour chacune des
 personnes que vous évaluez.  Faites quelque chose de logique quant à
-vos choix de nom pour que ce soit clair que projet (P1) et quelle
+vos choix de nom pour que ce soit clair quel projet (P1) et quelle
 personne.
 
 *[/barthelemypousset/2016-2017](https://github.com/barthelemypousset/2016-2017)*
