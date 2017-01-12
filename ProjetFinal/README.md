@@ -17,10 +17,10 @@ Quelques idées :
 
 Créez un répertoire "projet_final" dans lequel vous créez un fichier
 "proposition" (text, doc, markdown, autre, comme vous voulez).
-Expliquez ce que vous proposez faire, où vous trouverez les données,
+Expliquez ce que vous proposez de faire, où vous trouverez les données,
 la volumétrie de données, la forme du projet final.
 
-Créez également un fichier "emploi-du-temps" avec un emploi du temps
+Créez également un fichier "emploi_du_temps" avec un emploi du temps
 et des livrables hebdomadaires.  Ce planning de temps sera
 immédiatement faux, bien entendu, et vous le mettrez alors à jour.
 
@@ -50,7 +50,7 @@ Voir status 1.  Mais 4.
 
 ## Présentation (sept minutes chacun) : jeudi 9 mars
 
-Vous aurez sept minutes pour présenter votre projet avec trois minutes réserver aux questions.
+Vous aurez sept minutes pour présenter votre projet avec trois minutes réservées aux questions.
 
 
 ## Rapport final : jeudi 16 mars (via github)
