@@ -25,27 +25,27 @@ et des livrables hebdomadaires.  Ce planning de temps sera
 immédiatement faux, bien entendu, et vous le mettrez alors à jour.
 
 
-## Premier point (status 1) : lundi 30 janvier
+## Premier point (rapport 1) : lundi 30 janvier
 
-Créez un fichier "status_1" dans lequel vous expliquez ce que vous
+Créez un fichier "rapport_1" dans lequel vous expliquez ce que vous
 avez fait jusqu'ici, où vous en êtes, s'il y a des choses qui vous
-bloquent, et ce qui sont vos prochains pas pour status 2.  Mettez à
+bloquent, et ce qui sont vos prochains pas pour rapport 2.  Mettez à
 jour emploi-du-temps.
 
 
-## Status 2 : vendredi 10 février
+## Rapport 2 : vendredi 10 février
 
-Voir status 1.  Mais 2.
-
-
-## Status 3 :  lundi 20 février
-
-Voir status 1.  Mais 3.
+Voir rapport 1.  Mais 2.
 
 
-## Status 4 :  mercredi 1 mars
+## Rapport 3 :  lundi 20 février
 
-Voir status 1.  Mais 4.
+Voir rapport 1.  Mais 3.
+
+
+## Rapport 4 :  mercredi 1 mars
+
+Voir rapport 1.  Mais 4.
 
 
 ## Présentation (sept minutes chacun) : jeudi 9 mars
